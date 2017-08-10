@@ -3,7 +3,7 @@
 翻译自 [CppCoreGuidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#inaims-aims)，欢迎大家共同参与。
 
 - 文档目录结构参考 CppCoreGuidelines
-    * [In: Introduction](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-introduction)
+    * [In: Introduction](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-introduction)    ([sinper00翻译](https://github.com/sniper00))
     * [P: Philosophy](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-philosophy)
     * [I: Interfaces](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-interfaces)
     * [F: Functions](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
