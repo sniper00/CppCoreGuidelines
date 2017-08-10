@@ -13,7 +13,7 @@
     * [ES: Expressions and statements](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-expr)
     * [Per: Performance](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-performance)
     * [CP: Concurrency](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-concurrency)
-    * [E: Error handling](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-errors)    ([gross_fugue翻译](https://github.com/farewell12?tab=stars))
+    * [E: Error handling](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-errors)    ([gross_fugue翻译](https://github.com/farewell12?tab=stars))
     * [Con: Constants and immutability](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-const)    ([gross_fugue翻译](https://github.com/farewell12?tab=stars))
     * [T: Templates and generic programming](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-templates)    ([gross_fugue翻译](https://github.com/farewell12?tab=stars))
     * [CPL: C-style programming](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-cpl)    ([gross_fugue翻译](https://github.com/farewell12?tab=stars))
