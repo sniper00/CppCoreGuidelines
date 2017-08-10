@@ -5,7 +5,7 @@
 - 文档目录结构参考 CppCoreGuidelines
     * [In: Introduction](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-introduction)
     * [P: Philosophy](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-philosophy)
-    * [I: Interfaces](hhttp://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-interfaces)
+    * [I: Interfaces](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-interfaces)
     * [F: Functions](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
     * [C: Classes and class hierarchies](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-class)
     * [Enum: Enumerations](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-enum)
