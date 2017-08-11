@@ -88,3 +88,6 @@
     <td></td>
   </tr>
 </table>
+
+- 翻译说明
+  1. guideline support library 是一个库 将会直接翻译为 GSL
